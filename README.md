@@ -5,3 +5,10 @@ Sign Language Detection Train ML model to recognize selected sign language words
 
 
 https://drive.google.com/file/d/1VLIrQ0LxE3YC3xP_hc6DRH6Vn7JVJESv/view?usp=drive_link
+
+
+
+### Dataset Link::
+
+
+https://drive.google.com/file/d/1iVLdqsazevaQW5Ftm7Ehins6i1DoaW6c/view?usp=drive_link
